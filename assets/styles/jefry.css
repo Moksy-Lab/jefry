@@ -7,13 +7,22 @@
     background-color: #D82A4E;
     color: white
 }
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .active>.nav-link{
+    color: #474747
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link {
+    color: #474747
+}
+.headere2d79a3ca0c8814a .navbar-light .navbar-nav .nav-link:hover{
+    color: #D82A4E
+}
 /* #hasis(e2d79a3ca0c8814a) #css ends  */
 /*****hasis*****/
 
 /*****fansha*****/ 
 /* #fansha(formft6hkmrpjx9) #css starts  */
 .formft6hkmrpjx9{
-    padding: 7.5rem 0
+    padding: 2.5rem 0
 }
 .formft6hkmrpjx9 .lead {
     font-size: 20px
@@ -21,22 +30,35 @@
 .formft6hkmrpjx9 .btn-primary {
     background-color: #D82A4E;
     border-color: #D82A4E;
-    font-size: 20px
+    font-weight: bold
 }
-.btn-primary:not(:disabled):not(.disabled):active,
-.btn-primary:focus,
-.btn-primary:hover{
+.formft6hkmrpjx9 .btn-primary:not(:disabled):not(.disabled):active,
+.formft6hkmrpjx9 .btn-primary:focus,
+.formft6hkmrpjx9 .btn-primary:hover{
     background-color: #D82A4E;
     border-color: #D82A4E
+}
+.formft6hkmrpjx9 p {
+    margin-top: 5px
 }
 /* #fansha(formft6hkmrpjx9) #css ends  */
 /*****fansha*****/
 
 /*****freya*****/
 /* #freya(freyategxpfzk1ni) #css starts */
+.freyategxpfzk1ni .fdb-block {
+    padding: 5.5rem 0
+}
       .freyategxpfzk1ni   .fdb-block .fdb-touch {
       border-top: solid 0.3125rem #D82A4E
      }
+     .freyategxpfzk1ni .fdb-block .fdb-box {    
+        padding: 1.75rem 1.5rem;
+    }
+    .freyategxpfzk1ni .fdb-block h2{
+    font-size: 18px;
+    font-weight: 600
+    }
 /* #freya(freyategxpfzk1ni) #css starts */
 /*****freya*****/
 
