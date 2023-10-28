@@ -136,13 +136,20 @@
 /*****flight*****/
     /* #flight(flightft09nw97giq) #css starts */
     .flightft09nw97giq .fdb-block {
-        padding: 2.5rem 0
+        padding: 0.5rem 0
       }
       .flightft09nw97giq a {
-        color: #D82A4E
+        color: #474747;
+        font-size: 25px
       }
+      .flightft09nw97giq .lead {
+        font-size: 20px
+    }
       .flightft09nw97giq a:hover {
         color: #D82A4E
       }
+      .flightft09nw97giq p {
+        margin-bottom: 0rem
+    }
     /* #flight(flightft09nw97giq) #css ends */
 /*****flight*****/
