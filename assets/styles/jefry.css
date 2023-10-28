@@ -76,19 +76,30 @@
          }
     .pricespr0llwxlfes .btn-outline-primary:not(:disabled):not(.disabled):active,
     .pricespr0llwxlfes .btn-outline-primary:hover{
-        color: #fff;
+    color: #fff;
     background-color: #D82A4E;
-    border-color: #D82A4E
+    border-color: #D82A4E;
+    font-weight: 600
     }
     .pricespr0llwxlfes .btn-primary {
     background-color: #D82A4E;
-    border-color: #D82A4E
+    border-color: #D82A4E;
+    font-weight: 600
     }
     .pricespr0llwxlfes .btn-primary:not(:disabled):not(.disabled):active,
     .pricespr0llwxlfes .btn-primary:hover,
     .pricespr0llwxlfes .btn-primary:focus{
         background-color: #D82A4E;
         border-color: #D82A4E
+    }
+    .pricespr0llwxlfes h1{
+        font-size: 32px
+    }
+    .pricespr0llwxlfes h2{
+        font-size: 20px
+    }
+    .pricespr0llwxlfes .lead {
+        font-size:  20px
     }
     /* #patricia(pricespr0llwxlfes) #css ends  */
 /*****patricia*****/
