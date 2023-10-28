@@ -78,8 +78,7 @@
     .pricespr0llwxlfes .btn-outline-primary:hover{
     color: #fff;
     background-color: #D82A4E;
-    border-color: #D82A4E;
-    font-weight: 600
+    border-color: #D82A4E
     }
     .pricespr0llwxlfes .btn-primary {
     background-color: #D82A4E;
@@ -107,7 +106,10 @@
 /*****tioni*****/
     /* #tioni(testimonialtmrwms6esfu) #css starts  */
           .testimonialtmrwms6esfu  .fdb-block .fdb-touch {
-          border-top: solid 0.3125rem #D82A4E
+          border-top: solid 0.3125rem #474747
+        }
+        .testimonialtmrwms6esfu .fdb-block {
+            padding: 5.5rem 0
         }
     /* #tioni(testimonialtmrwms6esfu) #css ends  */
 /*****tioni*****/
@@ -116,13 +118,17 @@
     /* #carthur(calltoactionsccah4u1afnyj) #css starts  */
     .calltoactionsccah4u1afnyj .btn-primary {   
         background-color: #D82A4E;
-        border-color: #D82A4E
+        border-color: #D82A4E;
+        font-weight: 600
      }
      .btn-primary:not(:disabled):not(.disabled):active,
      .btn-primary:hover,
      .btn-primary:focus{
         background-color: #D82A4E;
         border-color: #D82A4E
+    }
+    .calltoactionsccah4u1afnyj .fdb-block {
+        padding: 2.5rem 0
     }
     /* #carthur(calltoactionsccah4u1afnyj) #css ends  */
 /*****carthur*****/
